@@ -41,6 +41,7 @@ namespace Algorithms
 
         static void Main(string[] args)
         {
+			//Search Algorithms
             //Num to search
             int numToSearch = 8;
             //Input array
